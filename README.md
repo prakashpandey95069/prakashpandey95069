@@ -57,19 +57,34 @@
 
 ## 🚀 Projects
 
-- 🔍 **Spam Classifier using NLP**
-- 📊 Machine Learning Models (KNN, Logistic Regression, etc.)
-- 🌐 Web Development Projects using React & Node.js  
+### 🛡️ Spam Shield: AI-Powered Spam Detector
+- Developed an intelligent spam detection system using **Natural Language Processing (NLP)**
+- Implemented **TF-IDF vectorization and classification models**
+- Accurately classifies messages into **spam or ham**
+- Optimized preprocessing for better model performance  
 
-👉 *(Add GitHub repo links here for stronger impact)*
+**Tech Stack:** `Python`, `Scikit-learn`, `NLP`
+
+
+
+---
+
+### 🎬 MovieFlix: Movie Recommendation System
+- Built a recommendation engine using **content-based filtering**
+- Uses **cosine similarity** to suggest similar movies
+- Provides personalized recommendations based on user input  
+
+**Tech Stack:** `Python`, `Pandas`, `Machine Learning`
+
+
 
 ---
 
 ## 🧠 Currently Learning
 
-- Data Structures & Algorithms  
-- Machine Learning  
-- System Design Basics  
+- 📌 Data Structures & Algorithms (DSA)
+- 📌 Machine Learning (Advanced)
+- 📌 System Design Basics
 
 ---
 
